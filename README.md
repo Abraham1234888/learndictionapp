@@ -1,4 +1,4 @@
-# learndictionapp
+# learndictionapp- Master the Global Rhythm of English
 Final Project 
 🗣️ Learndiction: Master the Global Rhythm of English
 
